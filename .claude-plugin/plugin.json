@@ -1,0 +1,8 @@
+{
+    "name": "marketplace-command-mercado-livre",
+    "version": "1.0.0",
+    "description": "Time de agentes e skills para operações de Mercado Livre.",
+    "author": {
+      "name": "Marketplace Command"
+    }
+  }
