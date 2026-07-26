@@ -1,0 +1,21 @@
+{
+  "name": "marketplace-command",
+  "owner": {
+    "name": "Marketplace Command"
+  },
+  "metadata": {
+    "description": "Marketplace oficial de agentes e skills do Marketplace Command."
+  },
+  "plugins": [
+    {
+      "name": "marketplace-command-mercado-livre",
+      "description": "Agentes e skills para operações de Mercado Livre.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "umbrellaperformancer-a11y/marketplace-command-mercado-livre",
+        "ref": "main"
+      }
+    }
+  ]
+}
