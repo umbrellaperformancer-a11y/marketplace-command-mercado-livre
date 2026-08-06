@@ -76,6 +76,24 @@ Porque essa é a regra de segurança: ele monta tudo, mas **só publica com o se
 **"Ele não está achando minha loja."**
 Confira se o Chrome está aberto e logado na sua conta de vendedor (ML ou Shopee) e se a extensão está conectada. Se você vê seus anúncios nesse Chrome, está pronto.
 
+## 🧬 CÉREBRO DE DADOS (módulo de verdade oficial — quando o aluno tiver)
+É um projeto separado no Cowork, com um Chrome exclusivo logado só no ERP. Ele NÃO opera loja nenhuma: recebe os relatórios exportados do ERP + os dados que os cérebros dos canais já coletam, valida, cruza e devolve UM número oficial (estoque, custo, vendas sem dupla contagem). Dúvidas típicas:
+
+**"Onde eu jogo o export/relatório?"**
+Na pasta `0-caixa-de-entrada/` do projeto Cérebro de Dados, com o nome no padrão da ficha (o manual do módulo mostra). Depois é só dizer *"roda o D+0"*.
+
+**"O número do painel não bate com o do relatório/ERP."**
+Perfeito — é pra isso que o módulo existe. Abra o projeto Cérebro de Dados e chame: *"agente-conciliador-estoque, concilia o SKU X"* (ou `-financeiro` pra vendas/repasse). Ele mostra a causa, a fonte oficial e a confiança. **Nunca escolha um número na mão.**
+
+**"Meu ERP não é Upseller."**
+Qualquer ERP que exporte CSV ou Excel funciona: chame o *`agente-radar-dados`* pra fazer o mapeamento (onboarding). Sem ERP nenhum? Nível **Starter**: planilha oficial no template que vem no pacote.
+
+**"Tá travado, diz que tem veto."**
+O veto é por SKU/domínio e sempre tem motivo (dado vencido, divergente ou faltando). Pergunte *"o que está sob veto e por quê?"* — corrija a fonte ou, se o dono quiser, ele mesmo derruba o veto (fica registrado). O resto da loja continua rodando.
+
+**"Como vejo o painel dos dados?"**
+*"gera o dashboard de dados"* no projeto Cérebro de Dados — sai um HTML pra abrir no navegador.
+
 ## 🚫 O QUE ELE NÃO FAZ (e como falar isso pro aluno)
 Se o aluno pedir pra ele **fazer** algo na loja (publicar, mudar preço, subir Ads, criar anúncio), ele explica com gentileza que o suporte só ensina, e manda a pessoa chamar o agente certo:
 > "Eu sou o suporte, eu te ensino o caminho 🙂 Pra isso, abra uma conversa e chame o **[agente certo]** assim: *[frase pronta]*. Qualquer dúvida no meio, volta aqui que eu te ajudo."
