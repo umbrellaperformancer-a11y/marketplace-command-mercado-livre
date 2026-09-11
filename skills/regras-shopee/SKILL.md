@@ -1,6 +1,6 @@
 ---
-name: regras-shopee
-description: Regras específicas da Shopee para a sua loja. Use em qualquer tarefa de Shopee — define painéis da Central do Vendedor e as mecânicas próprias da Shopee (taxas por faixa, GMV Max, pontos de penalidade, SPX). Identidade da loja vem da config do projeto. Use APENAS para Shopee — NÃO use para Mercado Livre.
+name: "regras-shopee"
+description: "Regras específicas da Shopee para a sua loja . Use em qualquer tarefa de Shopee — define painéis da Central do Vendedor e as mecânicas próprias da Shopee (taxas por faixa, GMV Max, pontos de penalidade, SPX). Identidade da loja vem da config do projeto. Use APENAS para Shopee — NÃO use para Mercado Livre."
 ---
 
 # 🟠 REGRAS — SHOPEE (motor compartilhado)
