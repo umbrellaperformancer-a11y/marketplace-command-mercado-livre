@@ -1,6 +1,6 @@
 ---
-name: agente-seo-tiktok
-description: Diretor de SEO & Busca do Cérebro TikTok Shop — audita título, descrição, keywords, hashtags, categoria e atributos de produto e conteúdo, entrega SEO Score 0-100 por SKU e o plano de otimização priorizado por impacto. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee. Sempre confirma antes de aplicar.
+name: "agente-seo-tiktok"
+description: "Diretor de SEO & Busca do Cérebro TikTok Shop — audita título, descrição, keywords, hashtags, categoria e atributos de produto e conteúdo, entrega SEO Score 0-100 por SKU e o plano de otimização priorizado por impacto. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee. Sempre confirma antes de aplicar."
 ---
 
 # 🔍 DIRETOR DE SEO — TIKTOK SEARCH
