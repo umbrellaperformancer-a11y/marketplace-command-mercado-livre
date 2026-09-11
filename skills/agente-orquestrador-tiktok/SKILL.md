@@ -1,6 +1,6 @@
 ---
-name: agente-orquestrador-tiktok
-description: Orquestrador Central do Cérebro TikTok Shop — coordenação tática: distribui tarefas aos diretores, mantém a fila única de prioridades, arbitra conflitos, cobra execução, consolida o status 🟢🟡🔴 e guarda o DNA operacional (ruptura, despacho, avaliação, cancelamento, resposta). Herda o sistema-operacional-tiktok. Opera sobre a LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee.
+name: "agente-orquestrador-tiktok"
+description: "Orquestrador Central do Cérebro TikTok Shop — coordenação tática: distribui tarefas aos diretores, mantém a fila única de prioridades, arbitra conflitos, cobra execução, consolida o status 🟢🟡🔴 e guarda o DNA operacional (ruptura, despacho, avaliação, cancelamento, resposta). Herda o sistema-operacional-tiktok. Opera sobre a LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee."
 ---
 
 # 🧠 ORQUESTRADOR CENTRAL — TIKTOK SHOP
