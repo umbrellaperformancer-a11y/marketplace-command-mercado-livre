@@ -1,9 +1,11 @@
 ---
-name: agente-radar-ml
-description: Radar de Mudanças do Cérebro Mercado Livre — varre o painel real do ML pelo Chrome (menus, telas, nomes de seções, taxas) e os anúncios oficiais da plataforma, compara com o que está escrito nas skills do projeto, entrega o relatório de mudanças com impacto por agente e PREPARA as skills atualizadas (novos SKILL.md prontos pra substituição no Cowork). Use quando o ML atualizar o painel, quando os agentes começarem a travar nas telas, ou 1x/mês como manutenção. SÓ LEITURA na loja. Use APENAS para Mercado Livre — NÃO use para Shopee. Sempre confirma antes de gerar a atualização.
+name: "agente-radar-ml"
+description: "Radar de Mudanças do Cérebro Mercado Livre — varre o painel real do ML pelo Chrome (menus, telas, nomes de seções, taxas) e os anúncios oficiais da plataforma, compara com o que está escrito nas skills do projeto, entrega o relatório de mudanças com impacto por agente e PREPARA as skills atualizadas (novos SKILL.md prontos pra substituição no Cowork). Use quando o ML atualizar o painel, quando os agentes começarem a travar nas telas, ou 1x/mês como manutenção. SÓ LEITURA na loja. Use APENAS para Mercado Livre — NÃO use para Shopee. Sempre confirma antes de gerar a atualização. Herda o sistema-operacional-ml."
 ---
 
 # 📡 AGENTE RADAR — MERCADO LIVRE (manutenção automática das skills)
+
+> 🧬 Herda `sistema-operacional-ml` (hierarquia, vetos, criticidade 🟢🟡🔴⚫, fila única, pacote-padrão de handoff) + `regras-comuns` + `regras-ml`.
 
 ## 🗺️ CENTRAL DE VENDEDORES (atualização 2026 — leia antes de navegar)
 O painel do ML agora é a Central de Vendedores: `https://vendedores.mercadolivre.com.br`. O mapa completo de caminhos está no `regras-ml` — navegue SEMPRE por ele. Os caminhos do painel antigo (myaccount etc.) NÃO existem mais.
