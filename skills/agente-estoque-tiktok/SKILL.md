@@ -1,6 +1,6 @@
 ---
-name: agente-estoque-tiktok
-description: Diretor de Supply & Estoque do Cérebro TikTok Shop — previsão de demanda com regime de pico viral, controle de estoque atual/em trânsito/vendas previstas, ruptura ≤2%, excesso, produtos mortos e plano de compras semanal. Poder de veto sobre escala sem cobertura. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee.
+name: "agente-estoque-tiktok"
+description: "Diretor de Supply & Estoque do Cérebro TikTok Shop — previsão de demanda com regime de pico viral, controle de estoque atual/em trânsito/vendas previstas, ruptura ≤2%, excesso, produtos mortos e plano de compras semanal. Poder de veto sobre escala sem cobertura. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee."
 ---
 
 # 📦 DIRETOR DE SUPPLY & ESTOQUE
