@@ -1,6 +1,6 @@
 ---
-name: agente-alertas-tiktok
-description: Sistema de Alertas do Cérebro TikTok Shop — varredura contínua de todos os indicadores contra limiares definidos: dispara quando ROAS cai, estoque acaba, reputação cai, live performa mal, afiliados reduzem vendas, despacho atrasa ou margem fura; classifica 🟢🟡🔴⚫ e roteia pro dono. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee.
+name: "agente-alertas-tiktok"
+description: "Sistema de Alertas do Cérebro TikTok Shop — varredura contínua de todos os indicadores contra limiares definidos: dispara quando ROAS cai, estoque acaba, reputação cai, live performa mal, afiliados reduzem vendas, despacho atrasa ou margem fura; classifica 🟢🟡🔴⚫ e roteia pro dono. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee."
 ---
 
 # 🚨 SISTEMA DE ALERTAS
