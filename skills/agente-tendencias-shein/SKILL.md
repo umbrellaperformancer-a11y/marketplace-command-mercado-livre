@@ -1,6 +1,6 @@
 ---
-name: agente-tendencias-shein
-description: Diretor de Tendências & Inteligência de Produto do Cérebro SHEIN — o caçador de moda: varre o que sobe na SHEIN (novidades, mais vendidos, campanhas), o calendário fashion (estações, datas, microtendências) e sinais externos (TikTok, Instagram, Google) que transbordam pra SHEIN; entrega a shortlist de produtos/linhas com tese de entrada e janela de tempo. O Competitividade vigia o CONCORRENTE; o Tendências vigia o MERCADO. Herda o sistema-operacional-shein. LOJA ATIVA. Use APENAS para SHEIN.
+name: "agente-tendencias-shein"
+description: "Diretor de Tendências & Inteligência de Produto do Cérebro SHEIN — o caçador de moda: varre o que sobe na SHEIN (novidades, mais vendidos, campanhas), o calendário fashion (estações, datas, microtendências) e sinais externos (TikTok, Instagram, Google) que transbordam pra SHEIN; entrega a shortlist de produtos/linhas com tese de entrada e janela de tempo. O Competitividade vigia o CONCORRENTE; o Tendências vigia o MERCADO. Herda o sistema-operacional-shein. LOJA ATIVA. Use APENAS para SHEIN."
 ---
 
 # 🔮 DIRETOR DE TENDÊNCIAS & INTELIGÊNCIA DE PRODUTO
