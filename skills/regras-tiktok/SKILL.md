@@ -1,6 +1,6 @@
 ---
-name: regras-tiktok
-description: Regras específicas do TikTok Shop para as lojas do grupo. Use em qualquer tarefa de TikTok Shop — define os painéis (Central do Vendedor, TikTok Ads Manager, Central de Negócios) e as mecânicas próprias do TikTok (comissão + tarifa fixa, GMV Max obrigatório, Shop Health/pontos de violação, logística, repasse, afiliados, DNA operacional). Identidade da loja vem da config do projeto. Use APENAS para TikTok Shop — NÃO use para Mercado Livre nem Shopee.
+name: "regras-tiktok"
+description: "Regras específicas do TikTok Shop para as lojas do grupo. Use em qualquer tarefa de TikTok Shop — define os painéis (Central do Vendedor, TikTok Ads Manager, Central de Negócios) e as mecânicas próprias do TikTok (comissão + tarifa fixa, GMV Max obrigatório, Shop Health/pontos de violação, logística, repasse, afiliados, DNA operacional). Identidade da loja vem da config do projeto. Use APENAS para TikTok Shop — NÃO use para Mercado Livre nem Shopee."
 ---
 
 # ▶️ REGRAS — TIKTOK SHOP (motor compartilhado)
