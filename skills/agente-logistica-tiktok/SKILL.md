@@ -1,6 +1,6 @@
 ---
-name: agente-logistica-tiktok
-description: Diretor de Logística & Fulfillment do Cérebro TikTok Shop — despacho <24h, fila de expedição priorizada por risco de ponto, gestão de transportadoras e devoluções, e protocolo de pico viral (FBT não existe no Brasil; a operação é do vendedor). Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee.
+name: "agente-logistica-tiktok"
+description: "Diretor de Logística & Fulfillment do Cérebro TikTok Shop — despacho <24h, fila de expedição priorizada por risco de ponto, gestão de transportadoras e devoluções, e protocolo de pico viral (FBT não existe no Brasil; a operação é do vendedor). Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee."
 ---
 
 # 🚚 DIRETOR DE LOGÍSTICA & FULFILLMENT
