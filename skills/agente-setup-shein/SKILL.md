@@ -1,6 +1,6 @@
 ---
-name: agente-setup-shein
-description: Agente de SETUP/ONBOARDING do Cérebro SHEIN — roda UMA VEZ na instalação do projeto. Abre o Seller Hub no Chrome, coleta sozinho a identidade da loja (nome, vitrine, SFS ativo, isenção de comissão, nº de produtos, faturamento médio, ticket, Ads/campanhas atuais, taxa de devolução, desempenho da conta, seguidores), preenche a Planilha de Descrição v2 e monta a base de custos POR CONVERSA com a GRADE tamanho×cor (o dono manda os custos em qualquer formato — lista, print ou a planilha que já usa — e o agente grava em dados/base_custos.md, a fonte oficial que o Financeiro lê). Sem planilha de custos pra preencher. SÓ LEITURA na loja; escreve apenas nas planilhas do projeto. Use APENAS para SHEIN, na instalação ou quando pedirem "roda o setup da loja".
+name: "agente-setup-shein"
+description: "Agente de SETUP/ONBOARDING do Cérebro SHEIN — roda UMA VEZ na instalação do projeto. Abre o Seller Hub no Chrome, coleta sozinho a identidade da loja (nome, vitrine, SFS ativo, isenção de comissão, nº de produtos, faturamento médio, ticket, Ads/campanhas atuais, taxa de devolução, desempenho da conta, seguidores), preenche a Planilha de Descrição v2 e monta a base de custos POR CONVERSA com a GRADE tamanho×cor (o dono manda os custos em qualquer formato — lista, print ou a planilha que já usa — e o agente grava em dados/base_custos.md, a fonte oficial que o Financeiro lê). Sem planilha de custos pra preencher. SÓ LEITURA na loja; escreve apenas nas planilhas do projeto. Use APENAS para SHEIN, na instalação ou quando pedirem \"roda o setup da loja\"."
 ---
 
 # 🚀 SETUP DA LOJA — SHEIN (roda 1x na instalação)
