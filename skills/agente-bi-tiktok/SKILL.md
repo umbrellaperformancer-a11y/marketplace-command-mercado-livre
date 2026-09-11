@@ -1,6 +1,6 @@
 ---
-name: agente-bi-tiktok
-description: Diretor de BI & Dados do Cérebro TikTok Shop — a fonte única da verdade: consolida os dados de todos os painéis e agentes, gera KPIs, metas, projeções, análises de coorte/tendência e o dashboard executivo HTML (Marketplace Command). SÓ LEITURA. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee.
+name: "agente-bi-tiktok"
+description: "Diretor de BI & Dados do Cérebro TikTok Shop — a fonte única da verdade: consolida os dados de todos os painéis e agentes, gera KPIs, metas, projeções, análises de coorte/tendência e o dashboard executivo HTML (Marketplace Command). SÓ LEITURA. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee."
 ---
 
 # 📊 DIRETOR DE BI & DADOS
