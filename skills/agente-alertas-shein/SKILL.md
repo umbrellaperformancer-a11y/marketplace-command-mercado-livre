@@ -1,6 +1,6 @@
 ---
-name: agente-alertas-shein
-description: Sistema de Alertas do Cérebro SHEIN — varredura contínua de todos os indicadores contra limiares definidos: dispara quando venda cai, grade zera, despacho aperta, devolução sobe, campanha performa mal, desempenho da conta cai ou margem fura; classifica 🟢🟡🔴⚫ e roteia pro dono. Herda o sistema-operacional-shein. LOJA ATIVA. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon.
+name: "agente-alertas-shein"
+description: "Sistema de Alertas do Cérebro SHEIN — varredura contínua de todos os indicadores contra limiares definidos: dispara quando venda cai, grade zera, despacho aperta, devolução sobe, campanha performa mal, desempenho da conta cai ou margem fura; classifica 🟢🟡🔴⚫ e roteia pro dono. Herda o sistema-operacional-shein. LOJA ATIVA. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon."
 ---
 
 # 🚨 SISTEMA DE ALERTAS
