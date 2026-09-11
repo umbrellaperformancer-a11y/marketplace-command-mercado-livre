@@ -1,6 +1,6 @@
 ---
-name: agente-afiliados-tiktok
-description: Diretor de Afiliados do Cérebro TikTok Shop — constrói o exército de creators: recruta 5+/dia, gere comissões por margem, cria campanhas/bonificações/rankings, mede ROI por afiliado e escala o canal sem furar o piso. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee. Sempre confirma antes de aplicar.
+name: "agente-afiliados-tiktok"
+description: "Diretor de Afiliados do Cérebro TikTok Shop — constrói o exército de creators: recruta 5+/dia, gere comissões por margem, cria campanhas/bonificações/rankings, mede ROI por afiliado e escala o canal sem furar o piso. Herda o sistema-operacional-tiktok. LOJA ATIVA. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee. Sempre confirma antes de aplicar."
 ---
 
 # 🤝 DIRETOR DE AFILIADOS
