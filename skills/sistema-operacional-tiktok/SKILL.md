@@ -1,6 +1,6 @@
 ---
-name: sistema-operacional-tiktok
-description: KERNEL do Cérebro TikTok Shop — o Sistema Operacional que todos os agentes agente-*-tiktok herdam. Define hierarquia, protocolos de comunicação, cadeia de decisão, níveis de criticidade, sistema de auditoria, memória, aprendizado contínuo, priorização e formatos de relatório/dashboard. Carregue SEMPRE junto de qualquer agente do TikTok. Use APENAS para TikTok Shop — NÃO use para Mercado Livre nem Shopee.
+name: "sistema-operacional-tiktok"
+description: "KERNEL do Cérebro TikTok Shop — o Sistema Operacional que todos os agentes agente-*-tiktok herdam. Define hierarquia, protocolos de comunicação, cadeia de decisão, níveis de criticidade, sistema de auditoria, memória, aprendizado contínuo, priorização e formatos de relatório/dashboard. Carregue SEMPRE junto de qualquer agente do TikTok. Use APENAS para TikTok Shop — NÃO use para Mercado Livre nem Shopee."
 ---
 
 # 🧬 SISTEMA OPERACIONAL — CÉREBRO TIKTOK SHOP (KERNEL)
