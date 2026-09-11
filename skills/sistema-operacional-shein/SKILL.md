@@ -1,6 +1,6 @@
 ---
-name: sistema-operacional-shein
-description: KERNEL do Cérebro SHEIN Marketplace — o Sistema Operacional que todos os agentes agente-*-shein herdam. Define hierarquia, protocolos de comunicação, cadeia de decisão, níveis de criticidade, sistema de auditoria, memória, aprendizado contínuo, priorização e formatos de relatório/dashboard. Carregue SEMPRE junto de qualquer agente da SHEIN. Use APENAS para SHEIN — NÃO use para Mercado Livre, Shopee, TikTok Shop nem Amazon.
+name: "sistema-operacional-shein"
+description: "KERNEL do Cérebro SHEIN Marketplace — o Sistema Operacional que todos os agentes agente-*-shein herdam. Define hierarquia, protocolos de comunicação, cadeia de decisão, níveis de criticidade, sistema de auditoria, memória, aprendizado contínuo, priorização e formatos de relatório/dashboard. Carregue SEMPRE junto de qualquer agente da SHEIN. Use APENAS para SHEIN — NÃO use para Mercado Livre, Shopee, TikTok Shop nem Amazon."
 ---
 
 # 🧬 SISTEMA OPERACIONAL — CÉREBRO SHEIN MARKETPLACE (KERNEL)
