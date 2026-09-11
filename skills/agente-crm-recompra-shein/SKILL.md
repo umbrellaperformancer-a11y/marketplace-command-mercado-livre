@@ -1,6 +1,6 @@
 ---
-name: agente-crm-recompra-shein
-description: Diretor de CRM & Recompra do Cérebro SHEIN — transforma comprador em cliente recorrente dentro das regras da plataforma: analisa coortes de recompra, arquiteta o catálogo pra segunda compra (linhas, conjuntos, novidade), usa as alavancas nativas da SHEIN (cupom de loja, seguidores da loja, lançamentos) e mede LTV por categoria. Herda o sistema-operacional-shein. LOJA ATIVA. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon.
+name: "agente-crm-recompra-shein"
+description: "Diretor de CRM & Recompra do Cérebro SHEIN — transforma comprador em cliente recorrente dentro das regras da plataforma: analisa coortes de recompra, arquiteta o catálogo pra segunda compra (linhas, conjuntos, novidade), usa as alavancas nativas da SHEIN (cupom de loja, seguidores da loja, lançamentos) e mede LTV por categoria. Herda o sistema-operacional-shein. LOJA ATIVA. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon."
 ---
 
 # 🔁 DIRETOR DE CRM & RECOMPRA
