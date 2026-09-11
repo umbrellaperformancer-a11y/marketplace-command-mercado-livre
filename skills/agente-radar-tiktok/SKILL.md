@@ -1,6 +1,6 @@
 ---
-name: agente-radar-tiktok
-description: Radar de Mudanças do Cérebro TikTok Shop — todo mês varre as fontes oficiais do TikTok Shop (Central do Vendedor, políticas, anúncios da plataforma) atrás de mudanças em taxas, tarifa fixa, Ads/GMV Max, Shop Health, logística, repasse e afiliados; compara com o que está gravado na skill regras-tiktok, entrega o relatório de mudanças com impacto por agente e PREPARA a skill atualizada (novo SKILL.md + zip) pra substituição no Cowork. Herda o sistema-operacional-tiktok. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee. Sempre confirma antes de gerar a atualização.
+name: "agente-radar-tiktok"
+description: "Radar de Mudanças do Cérebro TikTok Shop — todo mês varre as fontes oficiais do TikTok Shop (Central do Vendedor, políticas, anúncios da plataforma) atrás de mudanças em taxas, tarifa fixa, Ads/GMV Max, Shop Health, logística, repasse e afiliados; compara com o que está gravado na skill regras-tiktok, entrega o relatório de mudanças com impacto por agente e PREPARA a skill atualizada (novo SKILL.md + zip) pra substituição no Cowork. Herda o sistema-operacional-tiktok. Use APENAS para TikTok Shop — NÃO use para ML nem Shopee. Sempre confirma antes de gerar a atualização."
 ---
 
 # 📡 AGENTE RADAR — MUDANÇAS DA PLATAFORMA (motor compartilhado)
