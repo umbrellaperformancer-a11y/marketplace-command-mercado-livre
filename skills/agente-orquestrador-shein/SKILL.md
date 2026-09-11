@@ -1,6 +1,6 @@
 ---
-name: agente-orquestrador-shein
-description: Orquestrador Central do Cérebro SHEIN — coordenação tática: distribui tarefas aos diretores, mantém a fila única de prioridades, arbitra conflitos, cobra execução, consolida o status 🟢🟡🔴 e guarda o DNA operacional (ruptura por grade, despacho, cancelamento, avaliação, devolução). Herda o sistema-operacional-shein. Opera sobre a LOJA ATIVA. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon.
+name: "agente-orquestrador-shein"
+description: "Orquestrador Central do Cérebro SHEIN — coordenação tática: distribui tarefas aos diretores, mantém a fila única de prioridades, arbitra conflitos, cobra execução, consolida o status 🟢🟡🔴 e guarda o DNA operacional (ruptura por grade, despacho, cancelamento, avaliação, devolução). Herda o sistema-operacional-shein. Opera sobre a LOJA ATIVA. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon."
 ---
 
 # 🧠 ORQUESTRADOR CENTRAL — SHEIN
