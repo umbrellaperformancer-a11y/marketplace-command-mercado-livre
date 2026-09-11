@@ -1,9 +1,9 @@
 ---
-name: regras-ml
-description: Regras específicas do Mercado Livre para a sua loja . Use em qualquer tarefa de Mercado Livre — define os painéis da CENTRAL DE VENDEDORES (o painel novo do ML) e parâmetros padrão da operação. Identidade da loja (advertiserId, conta, vitrine) vem da config do projeto. Use APENAS para Mercado Livre — NÃO use para Shopee.
+name: "regras-ml"
+description: "Regras específicas do Mercado Livre para a sua loja. Use em qualquer tarefa de Mercado Livre — define os painéis da CENTRAL DE VENDEDORES (o painel novo do ML) e parâmetros padrão da operação. Identidade da loja (advertiserId, conta, vitrine) vem da config do projeto. Use APENAS para Mercado Livre — NÃO use para Shopee."
 ---
 
-# 📙 REGRAS MERCADO LIVRE (todas as lojas ML do grupo)
+# 📙 REGRAS MERCADO LIVRE (vale pra qualquer loja de ML)
 
 > Identidade da loja ativa (nome, conta, advertiserId, vitrine, metas) vem da FICHA do projeto. Estas regras valem pra qualquer loja ML.
 
