@@ -1,6 +1,6 @@
 ---
-name: regras-shein
-description: Regras específicas da SHEIN Marketplace para as lojas da operação. Use em qualquer tarefa de SHEIN — define os painéis (Seller Hub / Central do Vendedor SHEIN) e as mecânicas próprias da SHEIN (comissão 16%, SFS/fulfillment, campanhas e flash sales, desempenho do vendedor, devoluções de moda, repasse). Identidade da loja vem da ficha do projeto. Use APENAS para SHEIN — NÃO use para Mercado Livre, Shopee, TikTok Shop nem Amazon.
+name: "regras-shein"
+description: "Regras específicas da SHEIN Marketplace para as lojas da operação. Use em qualquer tarefa de SHEIN — define os painéis (Seller Hub / Central do Vendedor SHEIN) e as mecânicas próprias da SHEIN (comissão 16%, SFS/fulfillment, campanhas e flash sales, desempenho do vendedor, devoluções de moda, repasse). Identidade da loja vem da ficha do projeto. Use APENAS para SHEIN — NÃO use para Mercado Livre, Shopee, TikTok Shop nem Amazon."
 ---
 
 # 🖤 REGRAS — SHEIN MARKETPLACE (motor compartilhado)
