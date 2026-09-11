@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vinculador Browser Projeto"
+  short_description: "Vincula um projeto ao browser correto pelo Mercado Livre"
+  default_prompt: "Use /vinculador-browser-projeto para localizar e vincular o browser correto deste projeto."
