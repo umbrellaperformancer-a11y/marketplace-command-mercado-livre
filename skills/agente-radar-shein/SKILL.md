@@ -1,6 +1,6 @@
 ---
-name: agente-radar-shein
-description: Radar de Mudanças do Cérebro SHEIN — todo mês varre as fontes oficiais da SHEIN Marketplace (Seller Hub, políticas, SHEIN University, anúncios da plataforma) atrás de mudanças em comissão, taxas do SFS, campanhas/Ads, desempenho/penalidades, logística, repasse e categorias; compara com o que está gravado na skill regras-shein, entrega o relatório de mudanças com impacto por agente e PREPARA a skill atualizada (novo SKILL.md + zip) pra substituição no Cowork. Herda o sistema-operacional-shein. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon. Sempre confirma antes de gerar a atualização.
+name: "agente-radar-shein"
+description: "Radar de Mudanças do Cérebro SHEIN — todo mês varre as fontes oficiais da SHEIN Marketplace (Seller Hub, políticas, SHEIN University, anúncios da plataforma) atrás de mudanças em comissão, taxas do SFS, campanhas/Ads, desempenho/penalidades, logística, repasse e categorias; compara com o que está gravado na skill regras-shein, entrega o relatório de mudanças com impacto por agente e PREPARA a skill atualizada (novo SKILL.md + zip) pra substituição no Cowork. Herda o sistema-operacional-shein. Use APENAS para SHEIN — NÃO use para ML, Shopee, TikTok nem Amazon. Sempre confirma antes de gerar a atualização."
 ---
 
 # 📡 AGENTE RADAR — MUDANÇAS DA PLATAFORMA (motor compartilhado)
